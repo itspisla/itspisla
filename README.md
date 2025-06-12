@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hi, I'm Silvia Franzini (aka @itspisla)
 
-<!--
-**itspisla/itspisla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring AI Engineer based in Milan 🇮🇹, with a background in Computer Engineering and a strong foundation in data science, statistics, and applied machine learning.
 
-Here are some ideas to get you started:
+After gaining experience as a Data Scientist and AI PM in enterprise environments, I'm now actively building my coding skills and hands-on AI expertise through personal projects and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about using **AI to optimize repetitive or mundane work tasks**, freeing people to focus on creative and meaningful work. My dream is to design solutions that help teams simplify what slows them down, so they can concentrate on what they truly enjoy.
+
+🚀 **Current Focus**
+
+- Leveraging statistical and mathematical background in AI applications
+- Strengthening my Python and ML engineering skills
+- Building small, meaningful AI tools and demos
+- Exploring LLMs and applied NLP use cases
+
+📖 **Technologies I'm learning and using**
+
+Python • Pandas • Scikit-learn • Huggingface • Azure AI • Streamlit
+
+🌐 **Where to find me**
+
+Email: silvia.franzini@gmail.com
+LinkedIn: linkedin.com/in/silviafranzini
+
+Thanks for visiting my GitHub – feel free to connect or suggest a collaboration!
