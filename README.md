@@ -20,6 +20,7 @@ Python • Pandas • Scikit-learn • Huggingface • Azure AI • Streamlit
 🌐 **Where to find me**
 
 Email: silvia.franzini@gmail.com
+
 LinkedIn: linkedin.com/in/silviafranzini
 
 Thanks for visiting my GitHub – feel free to connect or suggest a collaboration!
